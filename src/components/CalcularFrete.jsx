@@ -43,7 +43,7 @@ const CalcularFrete = () => {
           </button>
         </form>
         <div className="mt-6 p-4 bg-blue-300 border-blue-600 rounded-2xl">
-            <h2 className="text-2xl font-bold text-blue-700 "> Valor do Frete</h2>
+            <h2 className="text-2xl font-bold text-blue-700 "> Valor do Frete: R$</h2>
         </div>
          <h6 className="text-white">&copy; 2025 - Todos os direitos reservados </h6>
       </div>
